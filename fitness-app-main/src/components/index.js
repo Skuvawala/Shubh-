@@ -1,0 +1,12 @@
+export { default as HomePage } from './Homepage';
+export { default as Login } from './Login';
+export { default as Header} from './Header';
+export { default as Signup } from './SignUp';
+export { default as HealthSection } from './HealthSection';
+export { default as FitnessSection } from './FitnessSection';
+export { default as MealSection } from './MealSection';
+export { default as UserProfile } from './UserProfile';
+export { default as ProtectedRoute } from './ProtectedRoute';
+export { AfterLogin } from './AfterLogin';
+export { AppBar } from './AppBar';
+export { SideBar } from './SideBar';
